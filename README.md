@@ -3,3 +3,4 @@ This projects contain generate obstacle, cenary fake movement,character animatio
 UI start game, Game over and score game progression in match play.
 UI start and retry play scripts play and restart match.
 Scripts locate in folder "assets" in the currect version plataform.
+# Unity version 2020.3.31f1.
